@@ -5,7 +5,7 @@
 // Оригинальные переводы на русский этих интерпретаций: http://it-karma.ru/
 // Интерпретации в репозитории http://github.com/foi/zet_int_texts
 // Связь c Michelle AstroFix http://astrofix.net/contact-2/ и http://www.facebook.com/pages/AstroFix/199646753177?ref=search и Michelle@AstroFix.net
-// Связь с foi - автором переводов: http://it-karma.ru/o_O или http://plurk.com/plurk_buddy и foi.first@gmail.com
+// Связь с foi - автором переводов: http://it-karma.ru/about или http://plurk.com/plurk_buddy и foi.first@gmail.com
 // «Никаких копирайтов и никакого тщеславия» - это же воздух, а воздух нельзя продавать - он для всех бесплатен.
 // Просьба не воспринимать эти интерпретации как догмы, это же всего лишь примеры.
 // Если встречаются опечатки - не сердчайте, ладно?. 
