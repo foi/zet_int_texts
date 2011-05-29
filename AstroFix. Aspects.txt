@@ -1,5 +1,5 @@
 // AP Аспекты планет
-// Michelle AstroFix. Planets and Aspects (translated by foi)
+// Michelle AstroFix. Planets in Aspect (translated by foi)
 //
 // Оригинальные интерпретации Michelle: http://astrofix.net/
 // Оригинальные переводы на русский этих интерпретаций: http://it-karma.ru/
